@@ -1,0 +1,1 @@
+This repository contains white-box tests for [sft211 project]. White-box testing involves examining the internal structure, code paths, and logic of the system to ensure thorough testing of its functionalities.

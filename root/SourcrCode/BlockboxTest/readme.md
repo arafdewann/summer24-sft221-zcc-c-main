@@ -1,0 +1,1 @@
+This repository contains blackbox tests for [SFT211 PROJECT]. Blackbox testing focuses on evaluating the functionality of the system from an external perspective, without knowledge of its internal structure or code.

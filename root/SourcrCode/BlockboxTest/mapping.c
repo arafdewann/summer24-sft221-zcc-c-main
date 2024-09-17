@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include "mapping.h"
 #include "math.h"
-
+// Do not Copy
 struct Map populateMap()
 {
 	struct Map result = {
